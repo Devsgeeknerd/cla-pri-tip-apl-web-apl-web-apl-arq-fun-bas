@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Curso de Banco de Dados
 
-***Conteúdo:***
+***Conteúdo do Curso:***
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
